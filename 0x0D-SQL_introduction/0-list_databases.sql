@@ -1,1 +1,4 @@
-SHOW DATABASES;
+--list databases of my SQl
+SHOW DATABASES
+
+;
